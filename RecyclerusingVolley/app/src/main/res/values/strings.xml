@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recycler using Volley</string>
+    <string name="_1">1</string>
+    <string name="title">Title</string>
+    <string name="desc">To cancel a request, call cancel() on your Request object. Once cancelled, Volley guarantees that your response handler will never be called. What this means in practice is that you can cancel all of your pending requests in your activity’s onStop() method and you don’t have to litter your response handlers with checks for getActivity() == null, whether onSaveInstanceState() has been called already, or other defensive boilerplate.</string>
+
+
+    <string name="_2">2</string>
+</resources>
+

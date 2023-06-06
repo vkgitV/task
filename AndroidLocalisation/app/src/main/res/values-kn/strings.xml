@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="do_something">"ಏನಾದರೂ ಮಾಡು "</string>
+    <string name="hello_world">ಹಲೋ ವರ್ಲ್ಡ್</string>
+    <string name="toast">"ಇದು ಟೋಸ್ಟ್ ಆಗಿದೆ "</string>
+</resources>

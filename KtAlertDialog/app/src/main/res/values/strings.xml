@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KtAlertDialog</string>
+    <string name="click_button">Click Button</string>
+    <string name="title">Delete</string>
+    <string name="message">Delete File May be Harm your System</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReciver</string>
+    <string name="app_started">App started!</string>
+    <string name="broadcast_recevier_app_started">Broadcast Recevier App Started</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="course">course</string>
+    <string name="name">name</string>
+    <string name="section">section</string>
+    <string name="year">year</string>
+    <string name="create">create</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="read">read</string>
+</resources>

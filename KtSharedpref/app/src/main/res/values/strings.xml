@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KtSharedpref</string>
+    <string name="login_page">Login Page</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="remember_my_credentials">Remember my credentials</string>
+<string name="checkBox">checkbox</string>
+    <string name="name">checkbox</string>
+    <string name="password">123456</string>
+
+</resources>

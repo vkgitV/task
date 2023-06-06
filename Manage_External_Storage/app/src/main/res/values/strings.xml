@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Manage_External_Storage</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="create_floder">Create_Floder</string>
+</resources>

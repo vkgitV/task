@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared_pref</string>
+    <string name="shared_preference_example">Shared_Preference_Example</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="enter_your_age">Enter Your Age</string>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InboxNotification</string>
+    <string name="get_notification">get notification</string>
+</resources>

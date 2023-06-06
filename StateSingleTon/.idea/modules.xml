@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StateSingleTon.iml" filepath="$PROJECT_DIR$/.idea/modules/StateSingleTon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StateSingleTon.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StateSingleTon.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StateSingleTon.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StateSingleTon.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StateSingleTon.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StateSingleTon.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StateSingleTon.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StateSingleTon.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

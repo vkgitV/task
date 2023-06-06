@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KtListView</string>
+    <string-array name="tecnology_list">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>.Net</item>
+        <item>Ruby</item>
+        <item>Rails</item>
+        <item>python</item>
+        <item>java script</item>
+        <item>Php</item>
+        <item>Ajax</item>
+        <item>Perl</item>
+        <item>Perl</item>
+        <item>Perl</item>
+        <item>Perl</item>
+        <item>Perl</item>
+        <item>Perl</item>
+
+    </string-array>
+</resources>
+
+
+
+<!--    val language:Array<String> = resources.getStringArray(R.array.technology_list)-->
+<!--val arrayAdapter = ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,language)-->
+<!--    listView.adapter = arrayAdapter-->

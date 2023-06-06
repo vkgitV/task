@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="names">
+        <item>Arun</item>
+        <item>Nithis</item>
+        <item>Arjun</item>
+        <item>Vinodh</item>
+        <item>kabilan</item>
+        <item>Mugilan</item>
+        <item>Jana</item>
+        <item>Santhosh</item>
+    </string-array>
+    <string-array name="genders">
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+        <item>male</item>
+
+    </string-array>
+    <string-array name="nationalities">
+        <item>indian</item>
+        <item>indian</item>
+        <item>indian</item>
+        <item>indian</item>
+        <item>newzeland</item>
+        <item>southafrica</item>
+        <item>england</item>
+        <item>westindies</item>
+
+    </string-array>
+
+    <string-array name="Empid">
+        <item>610</item>
+        <item>611</item>
+        <item>612</item>
+        <item>613</item>
+        <item>614</item>
+        <item>615</item>
+        <item>616</item>
+        <item>617</item>
+    </string-array>
+</resources>

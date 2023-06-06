@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="312dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="@string/course"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName4" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName3"
+        android:layout_width="312dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="@string/name"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName4"
+        android:layout_width="312dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="@string/section"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName3" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName5"
+        android:layout_width="312dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="@string/year"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="209dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="20dp"
+        android:onClick="insert_Data"
+        android:text="@string/create"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName5"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="209dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="8dp"
+        android:onClick="update_Data"
+        android:text="@string/update"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button3"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="209dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="8dp"
+        android:onClick="delete_Data"
+        android:text="@string/delete"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button4"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="209dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="8dp"
+        android:onClick="view_Data"
+        android:text="@string/read"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button"
+        tools:ignore="UsingOnClickInXml" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
